@@ -34,3 +34,8 @@ A narrativa foca na gestão preditiva de recursos hídricos na metrópole de Neo
 * **Imagens:** Google Gemini
 * **Edição:** Google Gemini / Canva (para montagem dos quadrinhos)
 * **Quadro de Gestão Nexus Hídrico:** https://trello.com/b/zglZe4c0
+
+* ## 📊 Gestão do Projeto
+As tarefas e o ciclo de vida deste projeto são gerenciados via Trello através das metodologias SCRUM e Kanban.
+
+* **Quadro de Gestão (Trello):** https://trello.com/b/zglZe4c0/tsi-nexushidrico
