@@ -29,7 +29,8 @@ A narrativa foca na gestão preditiva de recursos hídricos na metrópole de Neo
 10. **Cena 10:** Reflexão final da equipe sobre a parceria humano-tecnologia para o futuro do planeta.
 
 ## 🛠️ Tecnologias e Ferramentas
-* **Gestão:** GitHub
+* **Gestão:** GitHub e Trello
 * **Texto/Roteiro:** Google Gemini
 * **Imagens:** Google Gemini
 * **Edição:** Google Gemini / Canva (para montagem dos quadrinhos)
+* **Quadro de Gestão Nexus Hídrico:** https://trello.com/b/zglZe4c0
