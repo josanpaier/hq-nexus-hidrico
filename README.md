@@ -16,6 +16,19 @@ A narrativa foca na gestão preditiva de recursos hídricos na metrópole de Neo
 * Praticar o desenvolvimento iterativo e colaborativo através do **GitHub**.
 * Superar restrições técnicas de produção (cotas de geração) através de planejamento diário.
 
+## 📅 Ciclo de Vida do Projeto (Sprints)
+
+### 🔹 Sprint 01: Concepção e Roteiro
+* Definição do tema, briefing e criação do roteiro textual detalhado.
+* Estruturação inicial do Trello e do repositório GitHub.
+
+### 🔹 Sprint 02: Identidade Visual e Ativos (Sprint Atual)
+Nesta etapa, focamos na consolidação estética e na geração técnica dos elementos visuais da HQ.
+* **Consistência de Personagens:** Definição visual final de Marina Rios, Kelvin Fluxo e Dante Aquífero.
+* **Geração de Cenários:** Criação da estética Solarpunk de Neo-Vitória e das instalações industriais subterrâneas.
+* **Curadoria de Imagens:** Seleção e tratamento dos 10 painéis que compõem o Capítulo 1.
+* **Design de Capa:** Criação da identidade visual oficial com título e créditos.
+
 ## 🗺️ Estrutura da História (Mapeamento de 10 Quadrinhos)
 1.  **Cena 1:** Panorama de seca em Neo-Vitória; reservatórios críticos.
 2.  **Cena 2:** Apresentação da equipe técnica (**Marina, Kelvin e Dante**) no Centro de Comando Hídrico.
@@ -32,10 +45,15 @@ A narrativa foca na gestão preditiva de recursos hídricos na metrópole de Neo
 * **Gestão:** GitHub e Trello
 * **Texto/Roteiro:** Google Gemini
 * **Imagens:** Google Gemini
-* **Edição:** Google Gemini / Canva (para montagem dos quadrinhos)
-* **Quadro de Gestão Nexus Hídrico:** https://trello.com/b/zglZe4c0
+* **Documentação Técnica:** Markdown (PROMPTS.md)
+* **Edição:** Canva (para montagem e lettering)
 
-* ## 📊 Gestão do Projeto
+## 📁 Organização de Arquivos
+* `/characters`: Imagens oficiais dos protagonistas.
+* `/panels`: Os 10 quadrinhos finais em alta resolução.
+
+## 📊 Gestão do Projeto
 As tarefas e o ciclo de vida deste projeto são gerenciados via Trello através das metodologias SCRUM e Kanban.
 
-* **Quadro de Gestão (Trello):** https://trello.com/b/zglZe4c0/tsi-nexushidrico
+* **Quadro de Gestão (Trello):** [https://trello.com/b/zglZe4c0](https://trello.com/b/zglZe4c0)
+* **Equipe de Gestão:** Madness mAIx
