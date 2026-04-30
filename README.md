@@ -29,6 +29,13 @@ Nesta etapa, focamos na consolidação estética e na geração técnica dos ele
 * **Curadoria de Imagens:** Seleção e tratamento dos 10 painéis que compõem o Capítulo 1.
 * **Design de Capa:** Criação da identidade visual oficial com título e créditos.
 
+### 🔹 Sprint 03: Diagramação e Lettering (Concluída)
+* **Status:** Finalizado.
+* **Entregas:** HQ completa com balões de fala e narração.
+    * Revisão técnica finalizada.
+    * PDF consolidado para leitura.
+* **Link para o PDF Final:** https://github.com/josanpaier/hq-nexus-hidrico/tree/main/hq-final
+
 ## 🗺️ Estrutura da História (Mapeamento de 10 Quadrinhos)
 1.  **Cena 1:** Panorama de seca em Neo-Vitória; reservatórios críticos.
 2.  **Cena 2:** Apresentação da equipe técnica (**Marina, Kelvin e Dante**) no Centro de Comando Hídrico.
